@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\nihal\.android\build-cache\878086183050b24d3adf60fdf7f6f669848d03ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="729a6a1975c19d7461378172c7932f5c57f1c3fe">
+        <dex dex="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1b5925fa387851df83ce7345ae1d1915b08fa7fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nihal\.android\build-cache\7a4c70c4493336b426310df442eed8092f3c3584\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b8fd995f9c6c2caeb49827f0b52e0e8cc621e0">
+        <dex dex="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22ba89dc82e00a59ec9ca3972cc85c4405763562\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nihal\.android\build-cache\dfebb19cbf0d1b1baed4a1c2b7bec6395fd46eff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="869a1d15fa9d8e8aa36587b042f553c1baea46bc">
+        <dex dex="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3bd9eebd378f69c83aa487973dc82194915ab7a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nihal\.android\build-cache\f5a8f82737a97f28fba04a898edfea7be0583d39\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="863b37c463df79f340b5d83bbbfc63ad25612e01">
+        <dex dex="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8da344c56f4dab0fe9312d02ac87833940f8d88a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nihal\.android\build-cache\873398006ab785db76feef101e33e5d025f07d49\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4a9d8510de319af17459d3ec70e23559b83495b">
+        <dex dex="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d5e98c2745158d00090740ceef021c8af3851ce1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_76bef68987620a782f5e4bb020adae4faef530cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nihal\.android\build-cache\d2f71a5d624cefd0af420f3a4179ff742717a0a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1cde19cbf9be88547ab4b7f03668eac5d91bd611">
+        <dex dex="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dfe23c0946cc7f181a8721f7cab3ea3f3da4df79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nihal\.android\build-cache\5e7a51b2fa72a1a81cb62c34b29d14722779b33e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd1ff651ddb8608e9c4037f3d9ab475e9472abb2">
+        <dex dex="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_09d003d4cda4fc129d0d5f3bc90ac855bfc3e67a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nihal\.android\build-cache\c932bfdd5b1b6b574d0c365f33618cb860eb54d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6399340139f67ce4faba06e97f256ef0d6817c0">
+        <dex dex="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_95885e1264a5c801e7f3fa2d59350115c2a646a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nihal\.android\build-cache\9752818edd7b2a5d1e7c841dc0bef249940853ad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47bcd0b3eac50dbe2f150987250a6507e10ef28a">
+        <dex dex="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ac690ea0d8f9a6a52bc69fe1fab105db7c6ffa7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43d6380084ce3bf15b4f570ea15d7d18175607c8">
+        <dex dex="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_331e853510b4e852ccd2ca54acad049270ccf9a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nihal\.android\build-cache\eea87c711d11fbba35f74bd935b1ae16d08b8d7d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da443aff9cd3c2cd75b957e0547e1ca2c4f30308">
+        <dex dex="C:\Users\nihal\AndroidStudioProjects\FireAuth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_99052ad0d55ca27d99192e3f3168cd9e0da3fb6b\classes.dex" />
+    </item>
+
+</items>
